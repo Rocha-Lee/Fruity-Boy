@@ -1,5 +1,7 @@
 # Fruity-Boy
+is a fun game where you play as a young boy trying to collect fruit and toss them into baskets.
 
-foi feito um pequeno jogo sobre coletar frutas e joga-las em locais específicos. A câmera do jogo é do estilo top down.
-
-Link da Build: https://gamejolt.com/games/Fruity/653748
+Controls
+W/A/S/D or arrows - Move the boy 
+mouse click or ctrl - throw fruits
+Spacebar - Jump
